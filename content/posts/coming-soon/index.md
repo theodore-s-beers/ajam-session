@@ -2,6 +2,8 @@
 title: "More news coming soon"
 date: 2022-03-22T11:31:51+01:00
 draft: false
+cover:
+  image: "dimna-lion.jpg"
 ---
 
 We are still in the planning stages of this workshop.

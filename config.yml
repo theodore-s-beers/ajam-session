@@ -16,7 +16,7 @@ minify:
 params:
   description:
     "A workshop on premodern literary exchange between Persian and Arabic"
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["https://www.theobeers.com/ajam-session/about/kwd-manchester.png"]
   DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
