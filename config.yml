@@ -1,6 +1,6 @@
 baseURL: https://www.theobeers.com/ajam-session/
 languageCode: en-us
-title: ajam session
+title: ‘ajam session
 paginate: 5
 theme: "PaperMod"
 
@@ -14,13 +14,14 @@ minify:
   minifyOutput: true
 
 params:
-  description: "A workshop on premodern literary exchange between Persian and Arabic"
+  description:
+    "A workshop on premodern literary exchange between Persian and Arabic"
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   disableSpecial1stPost: false
@@ -41,12 +42,13 @@ params:
 
   # home-info mode
   homeInfoParams:
-    title: "A workshop on premodern literary exchange between Persian and Arabic"
+    title:
+      "A workshop on premodern literary exchange between Persian and Arabic"
     content: "To be held at the Freie Universität Berlin, 27--28 October 2022"
 
   socialIcons:
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/theodore-s-beers/ajam-session"
     - name: twitter
       url: "https://twitter.com/theodorebeers"
 
