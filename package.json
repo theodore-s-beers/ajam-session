@@ -1,0 +1,17 @@
+{
+  "name": "moof",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Theo Beers",
+  "main": "config.yml",
+  "scripts": {
+    "deploy": "hugo && gh-pages -d public -t true",
+    "prettify": "prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "prettier": "^2.6.0"
+  }
+}
