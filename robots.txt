@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.theobeers.com/ajam-session/sitemap.xml
