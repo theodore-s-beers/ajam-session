@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ajam session</title>
+    <title>Posts on ‘ajam session</title>
     <link>https://www.theobeers.com/ajam-session/posts/</link>
-    <description>Recent content in Posts on ajam session</description>
+    <description>Recent content in Posts on ‘ajam session</description>
     <image>
       <url>https://www.theobeers.com/ajam-session/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.theobeers.com/ajam-session/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.theobeers.com/ajam-session/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Mar 2022 11:31:51 +0100</lastBuildDate><atom:link href="https://www.theobeers.com/ajam-session/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Emoji Support</title>
-      <link>https://www.theobeers.com/ajam-session/posts/emoji-support/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>More news coming soon</title>
+      <link>https://www.theobeers.com/ajam-session/posts/coming-soon/</link>
+      <pubDate>Tue, 22 Mar 2022 11:31:51 +0100</pubDate>
       
-      <guid>https://www.theobeers.com/ajam-session/posts/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
+      <guid>https://www.theobeers.com/ajam-session/posts/coming-soon/</guid>
+      <description>&lt;p&gt;We are still in the planning stages of this workshop.&lt;/p&gt;</description>
     </item>
     
   </channel>

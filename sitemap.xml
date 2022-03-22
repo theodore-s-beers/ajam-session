@@ -2,20 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.theobeers.com/ajam-session/about/</loc>
+    <loc>https://www.theobeers.com/ajam-session/posts/coming-soon/</loc>
+    <lastmod>2022-03-22T11:31:51+01:00</lastmod>
+  </url><url>
+    <loc>https://www.theobeers.com/ajam-session/posts/</loc>
+    <lastmod>2022-03-22T11:31:51+01:00</lastmod>
   </url><url>
     <loc>https://www.theobeers.com/ajam-session/</loc>
+    <lastmod>2022-03-22T11:31:51+01:00</lastmod>
+  </url><url>
+    <loc>https://www.theobeers.com/ajam-session/about/</loc>
   </url><url>
     <loc>https://www.theobeers.com/ajam-session/categories/</loc>
   </url><url>
-    <loc>https://www.theobeers.com/ajam-session/tags/emoji/</loc>
-  </url><url>
-    <loc>https://www.theobeers.com/ajam-session/posts/emoji-support/</loc>
+    <loc>https://www.theobeers.com/ajam-session/tags/</loc>
   </url><url>
     <loc>https://www.theobeers.com/ajam-session/participants/</loc>
-  </url><url>
-    <loc>https://www.theobeers.com/ajam-session/posts/</loc>
-  </url><url>
-    <loc>https://www.theobeers.com/ajam-session/tags/</loc>
   </url>
 </urlset>
