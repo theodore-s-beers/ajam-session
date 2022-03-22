@@ -19,15 +19,15 @@ Arabic serving as the overarching _lingua franca_, and with authors of
 Persianate background authoring many of the most influential texts in
 philosophy, the sciences, _belles lettres_, and beyond---and often writing in
 both languages. To attempt to understand the "Perso-Arabic nexus" at the heart
-of the Islamicate civilization is difficult. Few researchers have the necessary
-training. In fact, two of the rare senior scholars who worked in this niche have
-passed away in recent months:
+of the Islamicate civilization is challenging. Few researchers have the
+necessary background. In fact, two of the rare senior scholars who worked in
+this niche have passed away in recent months:
 [Julie Scott Meisami](https://www.wolfson.ox.ac.uk/news/passing-announced-wolfson-fellow)
 and
 [Azartash Azarnoush](https://www.tehrantimes.com/news/465777/Azartash-Azarnush-member-of-Center-for-Great-Islamic-Encyclopedia).
-(_‘ajam session_ will be dedicated informally to their memory.) Again, the main
-goal of this workshop is to bring into conversation scholars who wear the hats
-of both Arabist and Persianist.
+(_‘ajam session_ will be dedicated informally to their memory.) The goal of this
+workshop is to bring into conversation scholars who aspire, like Meisami and
+Azarnoush, to wear the hats of both Arabist and Persianist.
 
 _Funding for this event is provided by the
 [Dahlem Junior Host Program](https://www.fu-berlin.de/en/sites/dhc/nachwuchs/djhp/)
