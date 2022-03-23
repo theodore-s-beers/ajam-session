@@ -23,7 +23,7 @@ Departmental Lecturer in Persian Literature, Faculty of Oriental Studies,
 University of Oxford
 ([Academia.edu page](https://oxford.academia.edu/JamesWhite))
 
-## Dr. Yoones Dehghani-Farsani
+## Dr. Yoones Dehghani Farsani
 
 Department Member, Orientabteilung, Staatsbibliothek zu Berlin -- Preußischer
 Kulturbesitz
