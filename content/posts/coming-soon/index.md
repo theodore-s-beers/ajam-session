@@ -1,6 +1,6 @@
 ---
 title: "More news coming soon"
-date: 2022-03-22T11:31:51+01:00
+date: 2022-03-01
 draft: false
 cover:
   image: "dimna-lion.jpg"
