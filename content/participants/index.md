@@ -25,6 +25,8 @@ University of Oxford
 
 ## Dr. Yoones Dehghani Farsani
 
+![Yoones Dehghani Farsani](ydf.jpg)
+
 Department Member, Orientabteilung, Staatsbibliothek zu Berlin -- Preußischer
 Kulturbesitz
 ([Academia.edu page](https://gesamtkatalogderwiegendrucke.academia.edu/YoonesDehghaniFarsani))
