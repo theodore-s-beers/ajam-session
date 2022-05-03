@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3",
-    "prettier": "^2.6.0"
+    "gh-pages": "github:theodore-s-beers/gh-pages",
+    "prettier": "^2.6.2"
   }
 }
