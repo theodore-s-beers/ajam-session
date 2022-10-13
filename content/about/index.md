@@ -15,7 +15,7 @@ Far too often, classical Persian and Arabic literature have been taught and
 studied at universities as though they can be siloed. The reality is that these
 traditions were inextricably linked from the early Islamic period onward, with
 Arabic serving as the overarching _lingua franca_, and with authors of
-Persianate background authoring many of the most influential texts in
+Persianate background producing many of the most influential texts in
 philosophy, the sciences, _belles lettres_, and beyond---and often writing in
 both languages. To attempt to understand the "Perso-Arabic nexus" at the heart
 of the Islamicate civilization is challenging. Few researchers have the

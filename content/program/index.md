@@ -32,7 +32,8 @@ _Some details still being finalized..._
   - Tobias Sick, "On the Ottoman Reception and Adaption of the _Pandnāma-yi
     'Aṭṭār_: Translation as Process and Product in the Early Modern Ottoman
     Empire"
-  - Pegah Shahbaz, _title to be finalized_ (remote)
+  - Pegah Shahbaz, "A Medieval Literary Jigsaw: The Persian Corpus as a
+    Reservoir for Arabic Literature" (remote)
 - A short catered lunch will be served at the workshop venue after the first
   paper (to avoid having it occur too late), around 13:15
 - Spanish Embassy-sponsored event about _Kalīla and Dimna_ (incl. food and
