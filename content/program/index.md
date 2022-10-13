@@ -6,23 +6,55 @@ cover:
 
 ## Day 0: Wednesday, Oct. 26
 
-- StaBi visit
-- Informal dinner
+_Details to be filled in shortly..._
 
-_To be filled in..._
+- StaBi visit and manuscript viewing, time TBD (either late morning or early
+  afternoon),
+  [Potsdamer Straße 33, 10785 Berlin](https://g.page/sbb-berlin?share)
+- Informal welcome dinner for those already in town, time TBD, _probably_ at
+  Piaggio,
+  [Königin-Luise-Straße 44, 14195 Berlin](https://goo.gl/maps/oR1F7ziDXsWWmHRw5)
 
 ## Day 1: Thursday, Oct. 27
 
-- Morning reading session, 10:00--11:30
-- Afternoon presentations, 12:00--17:00
-- Spanish Embassy event (incl. food and drinks), 19:00
+_Some details still being finalized..._
 
-_To be filled in..._
+- Morning reading session (for those interested), 10:00--11:30
+- Opening remarks by Beatrice Gründler and Theodore Beers, 12:00--12:30
+- Afternoon presentations (total 45 minutes each; ~20 minutes for the
+  presentation itself), 12:30--17:30
+  - James White, "Medieval Persian Court Poets as Readers of the Arabic Corpus:
+    Bilingual Approaches to the Ghaznavid _Nasīb_"
+  - Jaakko Hämeen-Anttila, "_Jawidan Khirad_ and Its Translation into Arabic and
+    Persian"
+  - Philip Bockholt, "Introducing a New Research Project on Knowledge Transfer
+    and Translation among Arabic, Persian, and Turkish in the Ottoman World"
+  - Tobias Sick, "On the Ottoman Reception and Adaption of the _Pandnāma-yi
+    'Aṭṭār_: Translation as Process and Product in the Early Modern Ottoman
+    Empire"
+  - Pegah Shahbaz, _title to be finalized_ (remote)
+- A short catered lunch will be served at the workshop venue after the first
+  paper (to avoid having it occur too late), around 13:15
+- Spanish Embassy-sponsored event about _Kalīla and Dimna_ (incl. food and
+  drink), 19:00, at the Topoi House,
+  [Hittorfstraße 18, 14195 Berlin](https://goo.gl/maps/CpXg5CuZHci49vjAA)
 
 ## Day 2: Friday, Oct. 28
 
-- Morning reading session, 10:00--11:30
-- Afternoon presentations, 12:00--17:00
-- Concluding dinner, 18:30
+_Some details still being finalized..._
 
-_To be filled in..._
+- Morning reading session (for those interested), 10:00--11:30
+- Afternoon presentations (total 45 minutes each; ~20 minutes for the
+  presentation itself), 12:00--17:00
+  - Theodore Beers, "Naṣr Allāh Munshī's Bilingual Persian-Arabic Rendition of
+    _Kalīla and Dimna_"
+  - Khouloud Khalfallah, "A Quasi-Plagiaristic Translation of _Kalīla and
+    Dimna_: The _Siyar al-mulūk_ of 'Umar ibn Dāwūd al-Fārisī"
+  - Yoones Dehghani Farsani, "Two Medieval Commentaries on Naṣr Allāh Munshī's
+    _Kalīla va Dimna_"
+  - Mohsen Zakeri, "From _Kalilah and Dimnah_ to _Panchatantra_, Once Again"
+  - Vahid Behmardi, _title to be finalized_ (remote)
+- A short catered lunch will be served at the workshop venue after the second
+  paper, around 13:30
+- Concluding dinner, 18:30, _probably_ at Alter Krug,
+  [Königin-Luise-Straße 52, 14195 Berlin](https://g.page/alterkrugberlin?share)

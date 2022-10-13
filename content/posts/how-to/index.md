@@ -1,6 +1,5 @@
 ---
 title: "How to use this site"
-date: "2022-10-01"
 draft: false
 cover:
   image: dimna-lion.jpg
