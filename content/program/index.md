@@ -17,9 +17,11 @@ _Details to be filled in shortly..._
 
 ## Day 1: Thursday, Oct. 27
 
-_Some details still being finalized..._
+_Certain details still being finalized..._
 
-- Morning reading session (for those interested), 10:00--11:30
+- Morning reading session (for those interested), 10:00--11:30, in the
+  downstairs room (see [venues]({{< ref "venues" >}})); coffee at least will be
+  available
 - Opening remarks by Beatrice Gründler and Theodore Beers, 12:00--12:30
 - Afternoon presentations (total 45 minutes each; ~20 minutes for the
   presentation itself), 12:30--17:30
@@ -36,15 +38,19 @@ _Some details still being finalized..._
     Reservoir for Arabic Literature" (remote)
 - A short catered lunch will be served at the workshop venue after the first
   paper (to avoid having it occur too late), around 13:15
+- There will also be a coffee break (with snacks) between the third and fourth
+  papers
 - Spanish Embassy-sponsored event about _Kalīla and Dimna_ (incl. food and
   drink), 19:00, at the Topoi House,
   [Hittorfstraße 18, 14195 Berlin](https://goo.gl/maps/CpXg5CuZHci49vjAA)
 
 ## Day 2: Friday, Oct. 28
 
-_Some details still being finalized..._
+_Certain details still being finalized..._
 
-- Morning reading session (for those interested), 10:00--11:30
+- Morning reading session (for those interested), 10:00--11:30, in the
+  downstairs room (see [venues]({{< ref "venues" >}})); coffee at least will be
+  available
 - Afternoon presentations (total 45 minutes each; ~20 minutes for the
   presentation itself), 12:00--17:00
   - Theodore Beers, "Naṣr Allāh Munshī's Bilingual Persian-Arabic Rendition of
@@ -57,5 +63,7 @@ _Some details still being finalized..._
   - Vahid Behmardi, _title to be finalized_ (remote)
 - A short catered lunch will be served at the workshop venue after the second
   paper, around 13:30
+- There will also be a coffee break (with snacks) between the fourth and fifth
+  papers
 - Concluding dinner, 18:30, _probably_ at Alter Krug,
   [Königin-Luise-Straße 52, 14195 Berlin](https://g.page/alterkrugberlin?share)

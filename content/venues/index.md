@@ -8,8 +8,8 @@ cover:
 
 Participants who are coming from out of town will be staying at the
 [Seminaris CampusHotel](https://www.seminaris.de/en/hotels/conference-hotel-berlin-dahlem/),
-just a few minutes' walk from the building where our meetings will be held. The
-address of the hotel is
+just a few minutes' walk from the building in which our meetings will be held.
+The address of the hotel is
 [Takustraße 39, 14195 Berlin](https://g.page/seminaris-campushotel-berlin?share).
 
 ## Main workshop sessions
@@ -35,19 +35,18 @@ discussed in a more general manner in workshop presentations.)
 
 These reading sessions will be held on the lower level of the Holzlaube, in room
 -1.1062. Please note that printing and photocopying can be done on-site. Those
-who wish to participate need only to submit documents to
-[Theodore Beers](https://www.theobeers.com/links) by email or other appropriate
-means.
+who wish to contribute need only send documents to
+[Theodore Beers](https://www.theobeers.com/links) by email or other means.
 
 ## StaBi visit / manuscript viewing
 
 On Wednesday, Oct. 26---the day before the workshop formally begins---those who
 are already in town will have the opportunity to visit the
-[Staatsbibliothek zu Berlin](https://staatsbibliothek-berlin.de/) and to view a
-handful of Persian and Arabic manuscripts from their excellent collection up
-close. The exact time has not been finalized, but it will be in either the late
-morning or the early afternoon of that day. This visit has been arranged thanks
-to Dr. Yoones Dehghani Farsani.
+[Staatsbibliothek zu Berlin](https://staatsbibliothek-berlin.de/) and to view up
+close a handful of Persian and Arabic manuscripts from their excellent
+collection. The exact time has not been finalized, but it will be in either the
+late morning or the early afternoon of that day. This visit has been arranged
+thanks to Dr. Yoones Dehghani Farsani.
 
 Please note that the StaBi has two main branches. The relevant one for our
 purposes is at
