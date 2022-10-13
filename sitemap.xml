@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.theobeers.com/ajam-session/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.theobeers.com/ajam-session/posts/coming-soon/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <loc>https://www.theobeers.com/ajam-session/posts/thingy/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.theobeers.com/ajam-session/posts/</loc>
-    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.theobeers.com/ajam-session/about/</loc>
   </url><url>
@@ -18,5 +18,9 @@
     <loc>https://www.theobeers.com/ajam-session/tags/</loc>
   </url><url>
     <loc>https://www.theobeers.com/ajam-session/participants/</loc>
+  </url><url>
+    <loc>https://www.theobeers.com/ajam-session/program/</loc>
+  </url><url>
+    <loc>https://www.theobeers.com/ajam-session/venues/</loc>
   </url>
 </urlset>

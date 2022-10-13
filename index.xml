@@ -10,13 +10,13 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.theobeers.com/ajam-session/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.theobeers.com/ajam-session/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>More news coming soon</title>
-      <link>https://www.theobeers.com/ajam-session/posts/coming-soon/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <title>Blah blah</title>
+      <link>https://www.theobeers.com/ajam-session/posts/thingy/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.theobeers.com/ajam-session/posts/coming-soon/</guid>
+      <guid>https://www.theobeers.com/ajam-session/posts/thingy/</guid>
       <description>&lt;p&gt;We are still in the planning stages of this workshop.&lt;/p&gt;</description>
     </item>
     
@@ -35,9 +35,30 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.theobeers.com/ajam-session/participants/</guid>
-      <description>Further participants will be added to this list as they confirm their attendance. We are still looking for a few more researchers to take part, and we have a bit of funding to facilitate this. If you are interested or know someone who might be a good fit, please get in touch with Theodore Beers.
-Prof. Dr. Jaakko Hämeen-Anttila Professor of Arabic and Islamic Studies, University of Edinburgh (profile)
-Dr. James White Departmental Lecturer in Persian Literature, Faculty of Oriental Studies, University of Oxford (Academia.</description>
+      <description>Participants are listed alphabetically by surname (except that the host is last). The Dr. title is used where applicable, but other titles are omitted. Please direct any questions or inquiries to Theodore Beers.
+Dr. Vahid Behmardi Associate Professor of Arabic and Persian Literature, Lebanese American University
+Dr. Behmardi will be presenting remotely.
+Dr. Philip Bockholt Assistant Professor, Westfälische Wilhelms-Universität Münster
+Dr. Yoones Dehghani Farsani Department Member, Orientabteilung, Staatsbibliothek zu Berlin &amp;ndash; Preußischer Kulturbesitz (Academia.</description>
+    </item>
+    
+    <item>
+      <title>Workshop program</title>
+      <link>https://www.theobeers.com/ajam-session/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.theobeers.com/ajam-session/program/</guid>
+      <description>Coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Workshop venues</title>
+      <link>https://www.theobeers.com/ajam-session/venues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.theobeers.com/ajam-session/venues/</guid>
+      <description>Accommodation Participants who are coming from out of town will be staying at the Seminaris CampusHotel, just a few minutes’ walk from the building where our meetings will be held. The address of the hotel is Takustraße 39, 14195 Berlin.
+Main workshop sessions All of our meetings on the FU campus will be held in the “Holzlaube” building, whose street address is Fabeckstraße 23&amp;ndash;25. There is a corner entrance at the intersection of Fabeckstraße and Arnimallee that should be convenient to use.</description>
     </item>
     
   </channel>
