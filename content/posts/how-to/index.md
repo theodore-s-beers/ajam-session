@@ -1,13 +1,13 @@
 ---
-title: "Blah blah"
+title: "How to use this site"
 date: "2022-10-01"
 draft: false
 ---
 
-We are still in the planning stages of this workshop.
+Coming soon
 
 <!--more-->
 
 For the time being, please see the short [description of the
-event]({{< ref "about" >}}), and the (still-growing) [list of
+event]({{< ref "about" >}}), and the [list of
 participants]({{< ref "participants" >}}).
