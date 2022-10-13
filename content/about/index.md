@@ -4,13 +4,12 @@ cover:
   image: "kwd-manchester.png"
 ---
 
-_‘ajam session_ is an upcoming workshop (still in the planning stages; we are
-[looking for a few more participants]({{< ref "participants" >}})) on the theme
-of _premodern literary exchange between Persian and Arabic_, to be held at the
-Freie Universität Berlin on **27--28 October 2022**. This is intended to be an
-uncommon gathering---perhaps the first of its kind in recent memory---for
-scholars who work with textual sources in both Arabic and Persian, and whose
-research addresses the long interplay between the two literary traditions.
+_‘ajam session_ is an upcoming workshop on the theme of _premodern literary
+exchange between Persian and Arabic_, to be held at the Freie Universität Berlin
+on **27--28 October 2022**. This is intended to be an uncommon
+gathering---perhaps the first of its kind in recent memory---for scholars who
+work with textual sources in both Arabic and Persian, and whose research
+addresses the long interplay between the two literary traditions.
 
 Far too often, classical Persian and Arabic literature have been taught and
 studied at universities as though they can be siloed. The reality is that these
@@ -21,7 +20,7 @@ philosophy, the sciences, _belles lettres_, and beyond---and often writing in
 both languages. To attempt to understand the "Perso-Arabic nexus" at the heart
 of the Islamicate civilization is challenging. Few researchers have the
 necessary background. In fact, two of the rare senior scholars who worked in
-this niche have passed away in recent months:
+this niche have recently passed away:
 [Julie Scott Meisami](https://www.wolfson.ox.ac.uk/news/passing-announced-wolfson-fellow)
 and
 [Azartash Azarnoush](https://www.tehrantimes.com/news/465777/Azartash-Azarnush-member-of-Center-for-Great-Islamic-Encyclopedia).
