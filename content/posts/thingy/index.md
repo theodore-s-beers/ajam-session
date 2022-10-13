@@ -1,9 +1,7 @@
 ---
-title: "More news coming soon"
-date: "2022-03-01"
-draft: true
-cover:
-  image: "dimna-lion.jpg"
+title: "Blah blah"
+date: "2022-10-01"
+draft: false
 ---
 
 We are still in the planning stages of this workshop.

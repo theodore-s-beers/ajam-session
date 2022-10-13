@@ -66,3 +66,11 @@ menu:
       name: participants
       url: /participants/
       weight: 20
+    - identifier: program
+      name: program
+      url: /program/
+      weight: 30
+    - identifier: venues
+      name: venues
+      url: /venues/
+      weight: 40
