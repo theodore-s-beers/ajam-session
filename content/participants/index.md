@@ -19,7 +19,7 @@ Berlin ([homepage](https://www.theobeers.com/))
 ![Vahid Behmardi](vb.jpg)
 
 Associate Professor of Arabic and Persian Literature, Lebanese American
-University
+University ([profile](https://soas.lau.edu.lb/about/people/vahid-behmardi.php))
 
 _Dr. Behmardi will be presenting remotely._
 
@@ -27,7 +27,9 @@ _Dr. Behmardi will be presenting remotely._
 
 ![Philip Bockholt](pb.jpg)
 
-Assistant Professor, Westfälische Wilhelms-Universität Münster
+Assistant Professor of the History of the Turco-Persian World, Westfälische
+Wilhelms-Universität Münster
+([Academia.edu page](https://uni-m.academia.edu/PhilipBockholt))
 
 ### Dr. Yoones Dehghani Farsani
 
@@ -48,7 +50,9 @@ Professor of Arabic and Islamic Studies, University of Edinburgh
 
 ![Khouloud Khalfallah](kk.jpg)
 
-PhD candidate, Freie Universität Berlin
+PhD candidate, Berlin Graduate School of Muslim Cultures and Societies, Freie
+Universität Berlin
+([profile](https://www.geschkult.fu-berlin.de/en/e/semiarab/arabistik/Seminar/Mitarbeiterinnen-und-Mitarbeiter/Wissenschaftliche-Mitarbeiterinnen-und-Mitarbeiter-_Drittmittel_/khalfallah/))
 
 ### Dr. Pegah Shahbaz
 
@@ -64,15 +68,17 @@ _Dr. Shahbaz will be presenting remotely._
 
 ![Tobias Sick](ts.jpg)
 
-PhD candidate, Westfälische Wilhelms-Universität Münster
+PhD candidate, Institut für Arabistik und Islamwissenschaft, Westfälische
+Wilhelms-Universität Münster
+([Academia.edu page](https://uni-m.academia.edu/TobiasSick))
 
 ### Dr. James White
 
 ![James White](jw.jpg)
 
-Departmental Lecturer in Persian Literature, Faculty of Oriental Studies,
-University of Oxford
-([Academia.edu page](https://oxford.academia.edu/JamesWhite))
+Oschinsky Research Fellow, Cambridge University Library and Girton College,
+Cambridge University
+([Academia.edu page](https://cambridge.academia.edu/JamesWhite))
 
 ### Prof. Dr. Mohsen Zakeri
 
@@ -80,6 +86,7 @@ University of Oxford
 
 Faculty Member, Arabic and Islamic Studies Department, Georg-August-Universität
 Göttingen
+([Academia.edu page](https://uni-goettingen.academia.edu/MohsenZakeri))
 
 ## Session chairs & others
 
