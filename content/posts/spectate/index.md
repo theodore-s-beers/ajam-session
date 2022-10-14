@@ -1,5 +1,8 @@
 ---
 title: "For guests: How to watch/participate remotely"
+cover:
+  image: gallery.jpg
+date: 2022-10-10
 ---
 
 A link to an online meeting will be available upon request.

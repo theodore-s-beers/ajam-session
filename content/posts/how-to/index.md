@@ -1,8 +1,8 @@
 ---
 title: "How to use this site"
-draft: false
 cover:
   image: dimna-lion.jpg
+date: 2022-10-01
 ---
 
 Most of the basic information that workshop participants and guests will need is
