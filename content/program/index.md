@@ -8,8 +8,7 @@ cover:
 
 _Details to be filled in shortly..._
 
-- StaBi visit and manuscript viewing, time TBD (either late morning or early
-  afternoon),
+- StaBi visit and manuscript viewing, 14:30--17:00,
   [Potsdamer Straße 33, 10785 Berlin](https://g.page/sbb-berlin?share)
 - Informal welcome dinner for those already in town, time TBD, _probably_ at
   Piaggio,
@@ -35,7 +34,7 @@ _Certain details still being finalized..._
     'Aṭṭār_: Translation as Process and Product in the Early Modern Ottoman
     Empire"
   - Pegah Shahbaz, "A Medieval Literary Jigsaw: The Persian Corpus as a
-    Reservoir for Arabic Literature" (remote)
+    Reservoir for Arabic Literature"
 - A short catered lunch will be served at the workshop venue after the first
   paper (to avoid having it occur too late), around 13:15
 - There will also be a coffee break (with snacks) between the third and fourth
@@ -60,7 +59,7 @@ _Certain details still being finalized..._
   - Yoones Dehghani Farsani, "Two Medieval Commentaries on Naṣr Allāh Munshī's
     _Kalīla va Dimna_"
   - Mohsen Zakeri, "From _Kalilah and Dimnah_ to _Panchatantra_, Once Again"
-  - Vahid Behmardi, _title to be finalized_ (remote)
+  - Vahid Behmardi, "The Transmission of Arabic Metrics into Poetry in Persian"
 - A short catered lunch will be served at the workshop venue after the second
   paper, around 13:30
 - There will also be a coffee break (with snacks) between the fourth and fifth

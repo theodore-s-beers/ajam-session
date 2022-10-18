@@ -84,8 +84,7 @@ Cambridge University
 
 ![Mohsen Zakeri](mz.jpg)
 
-Faculty Member, Arabic and Islamic Studies Department, Georg-August-Universität
-Göttingen
+Research Associate, Center for Religious Studies, Ruhr-Universität Bochum
 ([Academia.edu page](https://uni-goettingen.academia.edu/MohsenZakeri))
 
 ## Session chairs & others
