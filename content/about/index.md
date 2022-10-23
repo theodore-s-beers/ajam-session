@@ -4,12 +4,12 @@ cover:
   image: "kwd-manchester.png"
 ---
 
-_‘ajam session_ is an upcoming workshop on the theme of _premodern literary
-exchange between Persian and Arabic_, to be held at the Freie Universität Berlin
-on **27--28 October 2022**. This is intended to be an uncommon
-gathering---perhaps the first of its kind in recent memory---for scholars who
-work with textual sources in both Arabic and Persian, and whose research
-addresses the long interplay between the two literary traditions.
+_‘ajam session_ is an upcoming workshop focusing on the theme of _premodern
+literary exchange between Persian and Arabic_, to be held at the Freie
+Universität Berlin on **27--28 October 2022**. This is intended to be an
+uncommon gathering---perhaps the first of its kind in recent memory---for
+scholars who work with textual sources in both Arabic and Persian, and whose
+research addresses the long interplay between the two literary traditions.
 
 Far too often, classical Persian and Arabic literature have been taught and
 studied at universities as though they can be siloed. The reality is that these

@@ -23,7 +23,7 @@ that should be convenient to use. You may also find it helpful to look at a
 of the building.
 
 The core sessions of the workshop, which will take place between _ca_. 12:00 and
-17:00 on Oct. 27 and 28, will be in room 2.2051.
+17:00 on Oct. 27 and 28, will be in room **2.2051**.
 
 ## Morning reading sessions
 
@@ -34,8 +34,8 @@ opportunity, for example, to examine directly source materials that will be
 discussed in a more general manner in workshop presentations.)
 
 These reading sessions will be held on the lower level of the Holzlaube, in room
--1.1062. Please note that printing and photocopying can be done on-site. Those
-who wish to contribute need only send documents to
+**-1.1062**. Please note that printing and photocopying can be done on-site.
+Those who wish to contribute need only send documents to
 [Theodore Beers](https://www.theobeers.com/links) by email or other means.
 
 ## StaBi visit / manuscript viewing
@@ -44,9 +44,8 @@ On Wednesday, Oct. 26---the day before the workshop formally begins---those who
 are already in town will have the opportunity to visit the
 [Staatsbibliothek zu Berlin](https://staatsbibliothek-berlin.de/) and to view up
 close a handful of Persian and Arabic manuscripts from their excellent
-collection. The exact time has not been finalized, but it will be in either the
-late morning or the early afternoon of that day. This visit has been arranged
-thanks to Dr. Yoones Dehghani Farsani.
+collections. A room has been reserved for us for **14:30--17:00**. This visit
+has been arranged thanks to Dr. Yoones Dehghani Farsani.
 
 Please note that the StaBi has two main branches. The relevant one for our
 purposes is at
