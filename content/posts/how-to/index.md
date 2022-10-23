@@ -5,13 +5,13 @@ cover:
 date: 2022-10-01
 ---
 
-Most of the basic information that workshop participants and guests will need is
+Most of the information that workshop participants and guests will need is
 available here. You can navigate to different sections of the site using the
 menu at the top of the page.
 
 <!--more-->
 
-Further details will be added to this site over time. For the moment, please see
-the short [description of the event]({{< ref "about" >}}), the (nearly final)
+Further content will be added to this site over time. For the moment, please see
+the short [description of the event]({{< ref "about" >}}), the
 [program]({{< ref "program" >}}), and the [list of
 participants]({{< ref "participants" >}}).
